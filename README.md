@@ -1,1 +1,1 @@
-# Socket-de-redes-em-Python-
+# Implementação de Redes de comunicação ponto a ponto utilizando Socket em Python 
